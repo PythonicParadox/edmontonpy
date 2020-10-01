@@ -2,7 +2,7 @@
 EdmontonPy
 ==========
 
-A website devoted to promoting Python in Edmonton.
+An amazing website devoted to promoting Python in Edmonton.
 
 Getting Started
 ===============
@@ -14,12 +14,12 @@ EdmontonPy-Ops. To install use pipenv.
 
     pipenv sync
 
-Get started using EdmontonPy with the ``manage.py`` command.
+Get started with EdmontonPy with the ``manage.py`` command.
 
 Contributing
 ============
 
 For guidance on setting up a development environment and how to make a
-contribution to EdmontonPy, see the `contributing guidelines`_.
+contribution to EdmontonPy, you can checkout `contributing guidelines`_.
 
 .. _contributing guidelines: https://github.com/EdmontonPy/edmontonpy/blob/master/CONTRIBUTING.rst
